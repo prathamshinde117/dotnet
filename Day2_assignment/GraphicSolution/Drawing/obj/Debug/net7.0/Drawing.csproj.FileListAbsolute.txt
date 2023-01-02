@@ -1,0 +1,12 @@
+D:\dotnet assignments\Day2_assignment\GraphicSolution\Drawing\bin\Debug\net7.0\Drawing.deps.json
+D:\dotnet assignments\Day2_assignment\GraphicSolution\Drawing\bin\Debug\net7.0\Drawing.dll
+D:\dotnet assignments\Day2_assignment\GraphicSolution\Drawing\bin\Debug\net7.0\Drawing.pdb
+D:\dotnet assignments\Day2_assignment\GraphicSolution\Drawing\obj\Debug\net7.0\Drawing.csproj.AssemblyReference.cache
+D:\dotnet assignments\Day2_assignment\GraphicSolution\Drawing\obj\Debug\net7.0\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet assignments\Day2_assignment\GraphicSolution\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfoInputs.cache
+D:\dotnet assignments\Day2_assignment\GraphicSolution\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfo.cs
+D:\dotnet assignments\Day2_assignment\GraphicSolution\Drawing\obj\Debug\net7.0\Drawing.csproj.CoreCompileInputs.cache
+D:\dotnet assignments\Day2_assignment\GraphicSolution\Drawing\obj\Debug\net7.0\Drawing.dll
+D:\dotnet assignments\Day2_assignment\GraphicSolution\Drawing\obj\Debug\net7.0\refint\Drawing.dll
+D:\dotnet assignments\Day2_assignment\GraphicSolution\Drawing\obj\Debug\net7.0\Drawing.pdb
+D:\dotnet assignments\Day2_assignment\GraphicSolution\Drawing\obj\Debug\net7.0\ref\Drawing.dll
