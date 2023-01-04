@@ -1,0 +1,15 @@
+D:\dotnet assignments\dotnet\eventapp\LearnDelegate\bin\Debug\net7.0\LearnDelegate.exe
+D:\dotnet assignments\dotnet\eventapp\LearnDelegate\bin\Debug\net7.0\LearnDelegate.deps.json
+D:\dotnet assignments\dotnet\eventapp\LearnDelegate\bin\Debug\net7.0\LearnDelegate.runtimeconfig.json
+D:\dotnet assignments\dotnet\eventapp\LearnDelegate\bin\Debug\net7.0\LearnDelegate.dll
+D:\dotnet assignments\dotnet\eventapp\LearnDelegate\bin\Debug\net7.0\LearnDelegate.pdb
+D:\dotnet assignments\dotnet\eventapp\LearnDelegate\obj\Debug\net7.0\LearnDelegate.csproj.AssemblyReference.cache
+D:\dotnet assignments\dotnet\eventapp\LearnDelegate\obj\Debug\net7.0\LearnDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet assignments\dotnet\eventapp\LearnDelegate\obj\Debug\net7.0\LearnDelegate.AssemblyInfoInputs.cache
+D:\dotnet assignments\dotnet\eventapp\LearnDelegate\obj\Debug\net7.0\LearnDelegate.AssemblyInfo.cs
+D:\dotnet assignments\dotnet\eventapp\LearnDelegate\obj\Debug\net7.0\LearnDelegate.csproj.CoreCompileInputs.cache
+D:\dotnet assignments\dotnet\eventapp\LearnDelegate\obj\Debug\net7.0\LearnDelegate.dll
+D:\dotnet assignments\dotnet\eventapp\LearnDelegate\obj\Debug\net7.0\refint\LearnDelegate.dll
+D:\dotnet assignments\dotnet\eventapp\LearnDelegate\obj\Debug\net7.0\LearnDelegate.pdb
+D:\dotnet assignments\dotnet\eventapp\LearnDelegate\obj\Debug\net7.0\LearnDelegate.genruntimeconfig.cache
+D:\dotnet assignments\dotnet\eventapp\LearnDelegate\obj\Debug\net7.0\ref\LearnDelegate.dll
